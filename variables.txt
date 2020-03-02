@@ -1,0 +1,9 @@
+var food = "taco";
+var isDelicious = true;
+food = "steak";
+var num2 = 4;
+var num7 = 12;
+var quotient = num7/num2;
+var songs = ["Free Bird", "Stairway To Heaven", "No Quarter"]
+songs.shift();
+food.length;
