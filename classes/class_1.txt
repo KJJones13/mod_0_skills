@@ -1,0 +1,13 @@
+Table	
+
+Attributes:
+isOpen (boolean)
+tablecloth (boolean)
+color (string)
+contents (array)
+
+methods:
+Open (changes isOpen to true)
+changeColor (changes the color attribute)
+no tablecloth (changes tablecloth to false)
+addItem (adds an item to the end of the contents array)
