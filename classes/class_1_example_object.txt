@@ -1,0 +1,13 @@
+Table
+
+values:
+color: 'brown'
+isOpen: false
+contents: ['salt', 'pepper', 'silverware']
+tablecloth: false
+
+Methods: 
+isOpen: isOpen = true
+changeColor: color = 'brown'
+noTableCloth: noTableCloth = false
+addItem: contents = ['salt', 'pepper', 'silverware', 'candle']
