@@ -7,7 +7,7 @@ numberOfChairs: (integer)
 isFull: (boolean)
 
 methods: 
-chairType (changes which type of chair it is)
+addChairType (adds to which type of chair it is)
 chairHeight (changes the height of the chair)
-numberOfChairs (changes the number of chairs)
+addNumberOfChairs (changes the number of chairs)
 isFull (changes isFull to true)
