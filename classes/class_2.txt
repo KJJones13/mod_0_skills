@@ -1,0 +1,13 @@
+Chairs
+
+attributes:
+chairType (array)
+chairHeight: (integer)
+numberOfChairs: (integer)
+isFull: (boolean)
+
+methods: 
+chairType (changes which type of chair it is)
+chairHeight (changes the height of the chair)
+numberOfChairs (changes the number of chairs)
+isFull (changes isFull to true)
