@@ -1,0 +1,13 @@
+Chairs
+
+attributes:
+chairType: ['highTop', lowTop, 'barstool']
+chairHeight: 2
+numberOfChairs: 4
+isFull: false
+
+methods:
+addChairType: chairType = ['highTop', lowTop, 'barstool', 'childSeat']
+highTop: height = 6
+addChair: addNumberOfChairs =  chairs + 1
+open: isFull = false
