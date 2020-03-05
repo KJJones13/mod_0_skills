@@ -1,13 +1,13 @@
-Chairs
+Chair
 
 attributes:
-chairType (array)
-chairHeight: (integer)
-numberOfChairs: (integer)
-isFull: (boolean)
+chairType (string)
+chairHeight (integer)
+hasBooster (boolean)
+isFull (boolean)
 
-methods: 
-addChairType (adds to which type of chair it is)
-chairHeight (changes the height of the chair)
-addNumberOfChairs (changes the number of chairs)
+methods:
+changeChairType (changes type of chair)
+adjustChairHeight (adjust chair height to fit table)
+hasBooster (changes has booster to false)
 isFull (changes isFull to true)
