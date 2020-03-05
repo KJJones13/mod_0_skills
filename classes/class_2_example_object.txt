@@ -1,13 +1,13 @@
-Chairs
+Adjustable Restaurant Chair
 
 attributes:
-chairType: ['highTop', lowTop, 'barstool']
+chairType: "lowTop"
 chairHeight: 2
-numberOfChairs: 4
+hasBooster: true
 isFull: false
 
 methods:
-addChairType: chairType = ['highTop', lowTop, 'barstool', 'childSeat']
-highTop: height = 6
-addChair: addNumberOfChairs =  chairs + 1
-open: isFull = false
+changeChairType: chairType = 'barstool'
+adjustChairHeight: chairHeight = 3
+hasBooster: hasBooster = false
+isFull: isFull = true
