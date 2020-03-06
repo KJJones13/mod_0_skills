@@ -9,5 +9,5 @@ isFull (boolean)
 methods:
 changeChairType (changes type of chair)
 adjustChairHeight (adjust chair height to fit table)
-hasBooster (changes has booster to false)
-isFull (changes isFull to true)
+removeBooster (changes has booster to false)
+addOccupant (changes isFull to true)

@@ -9,5 +9,5 @@ isFull: false
 methods:
 changeChairType: chairType = 'barstool'
 adjustChairHeight: chairHeight = 3
-hasBooster: hasBooster = false
-isFull: isFull = true
+removeBooster: hasBooster = false
+addOccupant: isFull = true
